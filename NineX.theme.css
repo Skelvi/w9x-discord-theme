@@ -27,7 +27,7 @@ Join Salt's Discord Themes server: https://discord.gg/uy8nKQVatp
 @import url("https://saltssaumure.github.io/w9x-discord-theme/w9x.min.css");
 
 :root {
-    --w9x-background-image: none;
+    --w9x-background-image: url(https://drive.google.com/file/d/1veEAEm2Yj3vgWdgjhFjymObfJ5C9IGBi/view?usp=sharing);
     --w9x-background-color: #008080;
     --w9x-start-text: "Windows95";
 }
